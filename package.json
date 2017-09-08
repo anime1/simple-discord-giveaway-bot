@@ -1,0 +1,24 @@
+{
+  "name": "simple-discord-giveaway-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anime1/simple-discord-giveaway-bot.git"
+  },
+  "author": "Anime1.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anime1/simple-discord-giveaway-bot/issues"
+  },
+  "homepage": "https://github.com/anime1/simple-discord-giveaway-bot#readme"
+}
