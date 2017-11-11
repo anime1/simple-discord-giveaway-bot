@@ -34,4 +34,4 @@ client.on('message', function (message) {
     };
 });
 
-client.login('MzQ4NjcwMjI3MjUwNDEzNTY4.DHqT-A.ybyb_5fhegcp5lrVxbChFpqx7kA');
+client.login('YOUR TOKEN HERE');
